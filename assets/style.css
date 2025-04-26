@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin-top: 50px;
+}
+input, textarea {
+    margin: 5px;
+    padding: 8px;
+    width: 200px;
+}
+button {
+    padding: 8px 15px;
+    margin-top: 10px;
+}
+#mensajes {
+    margin-top: 20px;
+    background-color: white;
+    padding: 20px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
